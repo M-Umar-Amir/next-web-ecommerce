@@ -1,31 +1,4 @@
-# Namstore
 
-## 📝 Overview
-
-<p>
-  Namstore is an e-commerce web application, built with Next.js and TypeScript. Currently, There are total of 22 products under 4 categories and 3 genders. The products are stored in mongodb, noSQL database, while the CRUD operations are done by using mongoose because of its strongly typed schemas, and better query building. You can search any product by a single or multiple search keys combined via "+" between them, matching the category, gender, or title.
-</p>
-
-### 🌟 <b>Categories</b>
-
-- 👕 T-Shirts
-- 👖 Pants
-- 👟 Sneakers
-- 🧸 Toys
-
-### <b>🌟 Genders</b>
-
-- 👨 Man
-- 👩 Woman
-- 🧒 Child
-
-## 📟 Tech Stack
-
-![Tech Stack](https://skillicons.dev/icons?i=typescript,react,redux,nextjs,mongodb,styledcomponents)
-
-## 🔍 Preview
-
-<img src="GIF/preview.gif" />
 
 ## 📖 Getting Started
 
@@ -54,12 +27,3 @@
     # Start the app at localhost:3000
     yarn start
     ```
-
-You can find the working example [here](https://namstore.vercel.app).
-
-## 🧭 Roadmap
-
-- Authentication and Authorization
-- Favorite products
-- Dynamic filtering
-- Admin dashboard
